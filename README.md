@@ -2,7 +2,9 @@ Nicholas Reeder
 Python Scripting
 
 RPSNet: an AWS based Rock, Paper, Scissors game client!
+
 ***IMPORTANT NOTICE***
+
 RPSNet is running on my personal AWS and will only be available until January first, 2020. I have provided video proof of the software running and working as intended in case something happens between now and then. All code will be submitted to my course, as well as posted on GitHub publicly.
 
 Video explanation/Walkthrough:
