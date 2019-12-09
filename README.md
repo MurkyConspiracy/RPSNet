@@ -13,7 +13,6 @@ https://github.com/MurkyConspiracy/RPSNet
 
 RPSNet is roughly 1100 lines of code, it isn’t perfectly optimized, however it gets the job done, and done well. As long as the intention of the player is not to exploit the system, it works as intended. There are plenty of cautionary measures in place, however there are a few security flaws here and there. The data is also not encrypted so players could edit their stats.
 
- 
 All of the python code is commented with what it does to a point, however I did not annotate it line by line. The game is broken up into two different system: Client, Server.
 
 Client:
